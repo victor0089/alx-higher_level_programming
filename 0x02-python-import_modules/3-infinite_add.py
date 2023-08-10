@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # Author - Victor Israel
+
 if __name__ == "__main__":
     """Print the addition of all arguments."""
     import sys
