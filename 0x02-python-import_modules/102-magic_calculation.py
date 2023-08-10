@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author - Victor Israel
 
 def magic_calculation(a, b):
     """Match bytecode provided by Holberton School."""
