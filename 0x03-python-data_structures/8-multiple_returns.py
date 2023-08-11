@@ -1,4 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 
 def multiple_returns(sentence):
     if len(sentence) == 0:
