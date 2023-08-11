@@ -1,4 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 
 def element_at(my_list, idx):
 
