@@ -6,9 +6,7 @@ void print_python_bytes(PyObject *p);
 /**
  * print_python_list - Print basic information
  * about Python lists
- *
  * @p: python list
- *
  * Return: void
  */
 void print_python_list(PyObject *p)
