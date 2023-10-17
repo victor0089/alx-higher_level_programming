@@ -31,7 +31,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **Victor Adly** <[Tolulope05](https://github.com/victor0089)>
+* **Victor Adly** <[Victor](https://github.com/victor0089)>
 
 ## Acknowledgements :pray:
 
